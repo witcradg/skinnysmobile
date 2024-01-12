@@ -1,0 +1,16 @@
+{
+    "config": {
+    "title": "Skinny's Performance",
+    "description": "Skinny's Performance",
+    "siteUrl": "https://www.webecommercedeveloper.com",
+    "phone": "586-405-6782",
+    "businessName": "Skinny's Performance",
+    "defaultCity": "Harrison Twp",
+    "defaultState": "MI",
+    "defaultSeoTitle": "Skinny's Performance${city}, ${state} by Web eCommerce Developer",
+    "defaultSeoDescription": "Skinny's Performance${city}, ${state} - Now doing Mobile Auto Repair and Twowing",
+    "cityKeyword": "Skinny's Performance${city}, ${state} - Auto Service, Mobile Auto Repair and Twowing",
+    "citySlug": "STATE/CITY",
+    "author": "@witcradg"
+  }
+}

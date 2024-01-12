@@ -1,0 +1,88 @@
+{
+    "mainMenu": [
+        { "label": "Home", "link": "/" },
+        { "label": "Services", "link": "/no-op: dropdown/" },
+        { "label": "Mobile Auto Repair", "link": "/no-op: dropdown/" },
+        { "label": "Schedule Appointment", "link": "/appointment/" }
+      ],
+    "submenu1": [
+        {
+            "label": "Tune Up",
+            "link": "/Tune-Up/"
+        },
+        {
+            "label": "Brake Service",
+            "link": "/Brake-Service/"
+        },
+        {
+            "label": "Exhaust Repair",
+            "link": "/Exhaust-Repair/"
+        },
+        {
+            "label": "Oil Change",
+            "link": "/Oil-Change/"
+        },
+        {
+            "label": "Engine Light Diagnostic",
+            "link": "/Engine-Light-Diagnostic/"
+        },
+        {
+            "label": "A/C Heating Issues",
+            "link": "/A/C-Heating-Issues/"
+        },
+        {
+            "label": "Mobile Repair",
+            "link": "/Mobile-Repair/"
+        }
+    ],
+    "submenu2": [
+        {
+            "label": "Demo Opt In SMS Form",
+            "link": "/appointments/"
+        },
+        {
+            "label": "Mechanic",
+            "link": "/mechanic/"
+        },
+        {
+            "label": "Auto Repair Shop",
+            "link": "/auto-repair-shop/"
+        },
+        {
+            "label": "Car Repair and Maintenance",
+            "link": "/car-repair-and-maintenance"
+        },
+        {
+            "label": "Car Service",
+            "link": "/car-service/"
+        },
+        {
+            "label": "Auto Repair Shops and Mechanics",
+            "link": "/Auto Repair Shops and Mechanics/"
+        },
+        {
+            "label": "Car Repair",
+            "link": "/Car Repair/"
+        },
+        {
+            "label": "Truck Repair",
+            "link": "/Truck Repair/"
+        },
+        {
+            "label": "On Site Brake Repair",
+            "link": "/on-site-brake-repair/"
+        },
+        {
+            "label": "On Site Auto Repair",
+            "link": "/on-site-auto-repair/"
+        },
+        {
+            "label": "Emergency Auto Services",
+            "link": "/emergency-auto-services/"
+        },
+        {
+            "label": "Your Mechanic",
+            "link": "/your-mechanic/"
+        }
+    ]
+}
